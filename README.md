@@ -1,3 +1,3 @@
 # Quasar App
 
-> WIP
+> A dive into Vue using the Quasar Framework
